@@ -1,0 +1,63 @@
+.heading{
+    text-align:center;
+    background: #de04bd;
+    width: 40%;
+    align-items: center;
+    margin-left: 30%;
+    color: #faf9f9;
+    border-radius:0.5rem;
+}
+.intro{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.linebreaker{
+    color:#de04bd;
+    text-align: center;
+}
+.team-body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.employeepic{
+    align-content: center;
+    align-items: center;
+    padding:40px;
+    
+}
+.sub-team{
+    text-align:center;
+    background: #de04bd;
+    width: 30%;
+    margin-left: 35%;
+    color: #faf9f9;
+    border-radius:0.2rem;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:10px;
+
+}
+.subheadings{
+    margin-left:435px;
+    display: flex;
+    font: 1em sans-serif;
+    color:#9f218c;
+}
+.subheadings1{
+    margin-left:250px;
+    display: flex;
+    font: 1em sans-serif;
+    color:#9f218c;
+}
+.subheadings2{
+    display: flex;
+    font:1em sans-serif;
+    color:#9f218c;
+}
+.subheadings3{
+    margin-left:230px;
+    display: flex;
+    text-align: center;
+    font:1em sans-serif;
+    color:#9f218c;
+}
